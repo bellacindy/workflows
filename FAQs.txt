@@ -1,0 +1,3 @@
+Q: How should I open the zipped exercise files?
+A: Using a dedicated zip application like WinZip or 7-Zip is recommended. 
+Extracting the files using a built-in application on your system may not always produce the best results.
